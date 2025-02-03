@@ -30,21 +30,21 @@ ORDER OF EXECUTION
 15. Using the Sample submission convert the CO2 to the prediction from test data
 16. Submission file.
 
-FEATURES USED
+FEATURES USED -
 Numerical Features: Scaled using StandardScaler.
 Categorical Features: Encoded using One-Hot Encoding for 'device_name' column.
 Feature Selection: Selecting feature variable in the datasets and target variables.
 Hyperparameter Optimization: Used Optuna for hyperparameter tuning.
 Model used- RandomForestRegressor
 
-Environment
+ENVIRONMENT -
 This project runs on an Anaconda environment (Jupyter notebook file).
 
-Hardware Needed
+HARDWARE NEEDED -
 Jupyter notebook
 PC-Hp Elitebook intel core i7
 
-Expected Run Time
+EXPECTED TIME TO RUN - 
 Every aspect of the code (Except Hyperparameter tuning) should take about ~2 minutes
 Hyperparameter tuning should be about ~20 minutes
 
