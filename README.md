@@ -7,9 +7,10 @@ Main/
 |--Train (2).csv/                      #Training datasets provided for the hackathon
 |--Variable Description.csv/           #Descriptions to each variables in the datasets
 |--WINNING CODE 5TH.ipynb/             #Jupyter notebook file code that won the 5th place
+|--requirements.txt/                   #Necessary libraries to install
 |--submissionSOFT.csv/                 #Submission file that ranked 5th on the Zindi Competition - [(public score - 4.4.898868936, Private Score-4.845152084])
 |--test (2).csv/                       #Test datasets provided for the hackathon.
-|--requirements.txt/                   #Necessary libraries to install
+
 
 ORDER OF EXECUTION
 1. Installing Libraries
